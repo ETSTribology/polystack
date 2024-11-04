@@ -1,15 +1,19 @@
 [submodule "Scalable-CCD"]
 	path = Scalable-CCD
 	url = https://github.com/ETSTribology/Scalable-CCD
+	branch = friction
 [submodule "polysolve"]
 	path = polysolve
 	url = https://github.com/ETSTribology/polysolve
+	branch = friction
 [submodule "ipc-toolkit"]
 	path = ipc-toolkit
 	url = https://github.com/ETSTribology/ipc-toolkit
+	branch = friction
 [submodule "Tight-Inclusion"]
 	path = Tight-Inclusion
 	url = https://github.com/ETSTribology/Tight-Inclusion
+	branch = friction
 [submodule "polyfem"]
 	path = polyfem
 	url = https://github.com/ETSTribology/polyfem
@@ -21,3 +25,4 @@
 [submodule "DiffIPC-data"]
 	path = DiffIPC-data
 	url = https://github.com/ETSTribology/DiffIPC-data
+	branch = friction
