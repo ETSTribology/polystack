@@ -26,3 +26,6 @@
 	path = DiffIPC-data
 	url = https://github.com/ETSTribology/DiffIPC-data
 	branch = friction
+[submodule "polyfem-python"]
+	path = polyfem-python
+	url = https://github.com/ETSTribology/polyfem-python
